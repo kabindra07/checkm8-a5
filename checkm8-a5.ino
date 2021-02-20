@@ -1,6 +1,6 @@
 #include "Usb.h"
 
-#define A5_8942
+#define A5_8940
 #include "constants.h"
 
 USB Usb;
